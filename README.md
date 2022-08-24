@@ -1,6 +1,6 @@
-## Oii!Eu sou a Monique Saviczki
+Meu nome é Monique Saviczki
 
-#### 📚 Faço faculdade de Ciêcia da Computação
+#### 📚 Faço faculdade de Ciêcia da Computação na UTFPR
  <div>
  <div style="display: "flex" ">
   <a href="https://github.com/mosaviczki">
