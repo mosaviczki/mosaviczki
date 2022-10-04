@@ -1,6 +1,6 @@
 ## Meu nome é Monique Saviczki
 
-#### 📚 Faço faculdade de Ciêcia da Computação na UTFPR
+#### 📚 I study Computer Science at UTFPR
 <div align="center">
   <a href="https://github.com/mosaviczki">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=mosaviczki&show_icons=true&theme=radical"/>
