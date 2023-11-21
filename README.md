@@ -1,12 +1,14 @@
 ## Hi! my name is Monique Saviczki
 
 #### 📚 I study Computer Science at UTFPR
-<div align="center">
+<p>Currently studying for Web development: ReactJs, NextJs, Node.Js and Typescript</p>
+<div align="start">
   <a href="https://github.com/mosaviczki">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=mosaviczki&show_icons=true&theme=radical"/>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaviczki&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div align="center" style="display: flex"><br>
+<div align="start" style="display: flex"><br>
+  <h3>Language and tools:</h3>
   <img align="center" alt="Mo-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Mo-CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Mo-Javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
