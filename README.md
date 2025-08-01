@@ -14,12 +14,6 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaviczki&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-#### Stacks
-* React
-* Next
-* Node
-* Vue3
-    
 ---
     
 ### Contact me
