@@ -1,7 +1,7 @@
 ## Hi! my name is Monique Saviczki
 
-#### 📚 I study Computer Science at UTFPR
-<p>Currently studying for Web development: ReactJs, NextJs, Node.Js and Typescript</p>
+#### 📚 I Front-end Software Developer
+<p>Web Developer: ReactJs, NextJs, Node.Js and Vue</p>
 <div align="start">
   <a href="https://github.com/mosaviczki">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=mosaviczki&show_icons=true&theme=radical"/>
