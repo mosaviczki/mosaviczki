@@ -1,4 +1,8 @@
 ## Hello, I'm Monique Saviczki 👋
+<p align="center">
+  <code>JavaScript</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>NextJS</code> • <code>React</code> • <code>Vue3</code><br/> 
+  <code>AWS</code> • <code>n8n</code>
+</p>
 
 #### About Me
 - 🎓 Bachelor's degree in Computer Science
